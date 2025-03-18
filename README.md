@@ -5,7 +5,7 @@ This repository showcases the certifications I’ve earned in DevOps, Cloud, Aut
 1. DevOps Certification:
    Through the DevOps Certification at GUVI (NSDC Certified), I gained in-depth knowledge of DevOps principles, mastering the seamless
    integration of software development and IT operations.This program provided hands-on experience with industry-leading tools like
-   Git, Jenkins, Docker, Kubernetes, Prometheus, Grafana, and Terraform.
+   Git, Jenkins, Docker, Kubernetes, Prometheus, Grafana, Terraform and Ansible.
    
 2. KodeKloud Certifications:
    Additionally, I pursued KodeKloud certifications to further expand my expertise, exploring advanced techniques and best practices
